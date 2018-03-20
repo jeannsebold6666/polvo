@@ -1,0 +1,395 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,900');
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif:400,700');
+
+.context-slider {
+  background-image: url("header.png");
+  background-size: 100% 100%;
+  min-height: 624px;
+}
+
+.context-slider h2 {
+  max-width: 1138px;
+  width: 100%;
+  height: 180px;
+  font-size: 80px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.13;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+  font-family: 'Noto Serif', serif;
+  margin-top: 74px;
+}
+
+.context-slider p {
+  font-family: Source Sans Pro;
+  font-size: 21px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.71;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+}
+
+h4.title {
+
+  font-family: 'Noto Serif', serif;
+  font-size: 70px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.29;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000000;
+
+}
+
+.retangulo {
+    width: 28px;
+    height: 28px;
+    border: solid 7px #ffcb08;
+    margin-bottom: -50px;
+}
+.context-slider p {
+  color: #fff;
+  text-align: center;
+  font-size: 21px;  
+}
+
+#comofunc {
+
+  background: #fff;
+  background-repeat: no-repeat;
+  position: relative;
+}
+
+.moedas {
+  position: absolute;
+  top: -146px;
+}
+
+#comofunc img.icone {
+  display: block;
+    max-width: 100px;
+    width: 60px;
+    margin-left: -13px;
+    margin-top: 11px;
+}
+
+#comofunc .passos {
+  margin-top: 60px;
+}
+
+#transcao {
+  background-image: url("fundo-compre-e-venda.png");
+  background-size: 100% 100%;
+  min-height: 400px;
+}
+
+#duvidas {
+  background-image: url("header.png");
+  background-size: 100% 100%;
+  min-height: 634px;
+}
+
+#comofunc {
+  padding: 140px 0px 100px 0;
+}
+
+#comofunc span {
+  width: 65px;
+  height: 20px;
+  font-family: Source Sans Pro;
+  font-size: 16px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 1px;
+  text-align: left;
+  color: #159155;
+
+}
+
+#comofunc h6 {
+
+  font-family: 'Noto Serif', serif;
+  font-size: 28px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.5;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000000;
+}
+
+#comofunc p {
+  font-family: Source Sans Pro;
+  font-size: 17px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.94;
+  letter-spacing: normal;
+  text-align: left;
+  color: #5f5f5f;
+
+}
+#comofunc .parceiros {
+  margin-top: 40px;
+  border-top: solid 2px #e5e5e5;
+  padding-top: 20px;
+}
+
+#comofunc .parceiros img {
+  display: inline-flex;
+ margin-right: 30px;
+}
+
+#comofunc .parceiros img:hover {
+  opacity: .7;
+}
+#comofunc h5 {
+  font-family: Source Sans Pro;
+  font-size: 16px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: 1px;
+  text-align: left;
+  color: #000000;
+}
+
+#comofunc button.verde {
+  border: solid 4px #159155;
+  color: #159155;
+  font-family: Source Sans Pro;
+  font-size: 18px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #20734a;
+  padding: 10px 20px;
+  background: transparent;
+}
+
+.quemsomos {
+  margin-top: 60px;
+}
+
+#transcao h5 {
+  margin-top: 80px;
+  font-family: Noto Serif;
+  font-size: 70px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.29;
+  letter-spacing: normal;
+  text-align: center;
+  color: #785105;
+}
+
+#transcao p {
+  text-align: center;
+  font-family: Source Sans Pro;
+  font-size: 21px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.81;
+  letter-spacing: normal;
+  text-align: center;
+  color: #785105;
+}
+
+#transcao button {
+  text-align: center;
+  border: solid 4px #785105;
+  color: #785105;
+  font-family: Source Sans Pro;
+  font-size: 18px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  padding: 10px 20px;
+  background: transparent;
+  margin-left: 20px;
+  
+}
+
+#duvidas {
+  background-image: url("fundo-duvidas.png");
+  background-size: 100% 100%;
+  min-height: 400px;
+}
+
+#duvidas h5 {
+  width: 535px;
+  text-align: left;
+  font-family: Noto Serif;
+  font-size: 70px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.29;
+  letter-spacing: normal;
+  color: #fff;
+  margin-top: 80px;
+}
+
+
+
+#duvidas button.comprar {
+  text-align: center;
+  border: solid 4px #ffcb08;
+  color: #fff;
+  font-family: Source Sans Pro;
+  font-size: 18px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  padding: 10px 20px;
+  background: transparent;
+  margin-left: 0px;
+}
+
+#duvidas button.vender {
+  text-align: center;
+  border: none;
+  color: #fff;
+  font-family: Source Sans Pro;
+  font-size: 18px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  padding: 10px 20px;
+  background: transparent;
+  margin-left: 20px;
+}
+
+button:hover {
+  opacity: .7;  
+}
+
+.compra {
+  background-image: url("imagem-compra.png");
+  background-size: cover;
+  height: 110px;
+  width: 280px;
+  position: absolute;
+  padding: 10px 20px;
+  left: 23%;
+    top: -57px;
+    z-index: 99;
+}
+
+
+.compra p.txt {
+  font-family: Noto Serif;
+  font-size: 30px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+}
+
+.compra span.price {
+  font-family: Noto Serif;
+  font-size: 30px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffcb08;
+}
+
+.compra small {
+  width: 70px;
+  font-family: Source Sans Pro;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+  display: inline-block;
+  float: right;
+}
+
+.venda {
+  background-image: url("imagem-venda.png");
+  background-size: cover;
+  height: 110px;
+  width: 280px;
+  position: absolute;
+  padding: 10px 20px;
+  left: 51%;
+    top: -57px;
+    z-index: 99;
+}
+
+.venda p.txt {
+  font-family: Noto Serif;
+  font-size: 30px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffffff;
+}
+
+.venda span.price {
+  font-family: Noto Serif;
+  font-size: 30px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.33;
+  letter-spacing: normal;
+  text-align: left;
+  color: #ffcb08;
+}
+
+.venda small {
+  width: 70px;
+  font-family: Source Sans Pro;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: right;
+  color: #ffffff;
+  display: inline-block;
+  float: right;
+}

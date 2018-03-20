@@ -1,0 +1,144 @@
+footer {
+    padding: 30px 0;
+    background-color: #f1f1f1;
+}
+
+footer ul.menu {
+    list-style: none !important;
+}
+
+footer ul.menu li {
+    font-family: Source Sans Pro;
+    font-size: 17px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.94;
+    letter-spacing: normal;
+    text-align: left;
+    color: #5f5f5f;
+    cursor: pointer;
+}
+
+footer ul.menu li:hover {
+    font-weight: bold;
+  color: #000000;
+}
+
+footer .contact span {
+    font-family: Source Sans Pro;
+  font-size: 17px;
+  font-weight: 600;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.94;
+  letter-spacing: normal;
+  text-align: left;
+  color: #000000;
+  margin-left: 15px;
+}
+
+footer .contact {
+    margin-bottom: 20px;
+}
+
+footer .contact:nth-child(1) {
+    margin-top: 30px;
+}
+footer .contact img {
+    vertical-align: middle;
+}
+
+footer .contact img.time {
+    margin-top: 10px;
+}
+footer .contact small {
+
+    font-family: Source Sans Pro;
+    font-size: 12px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 2.92;
+    letter-spacing: normal;
+    text-align: left;
+    color: #5f5f5f;
+    margin-left: 15px;
+}
+
+footer .contact span.ate {
+    font-family: Source Sans Pro;
+    font-size: 17px;
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000000;
+    margin-left: 46px;
+    display: block;
+    margin-top: -15px;
+}
+
+footer .news  {
+    margin-top: 30px;
+}
+footer .news p {
+    font-family: Source Sans Pro;
+    font-size: 16px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 1px;
+    text-align: left;
+    color: #159155;
+    text-transform: uppercase;
+}
+
+footer .news h6 {
+    font-family: Noto Serif;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.5;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000000;
+}
+
+footer .news button {
+    border: solid 4px #159155;
+  color: #159155;
+  font-family: Source Sans Pro;
+  font-size: 18px;
+  font-weight: bold;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #20734a;
+  padding: 8px 20px;
+  background: transparent;
+}
+
+footer .news input {
+    border-radius: 3px;
+    background-color: #ffffff;
+    border: solid 1px #c1c1c1;
+    padding: 13px 0px 13px 20px;
+    margin-right: 15px;
+    width: 343px;
+    font-family: Source Sans Pro;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #5f5f5f;
+}
